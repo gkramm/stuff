@@ -150,8 +150,8 @@ map <leader>sh :shell
 map <leader>bsh :!bash --login<CR>
 map <leader>Gl :Glog -- %<CR>
 map <leader>Gb :Gblame<CR>
-map <leader>Y yiw<CR>
-map <leader>P viwp<CR>
+map <leader>Y yiw
+map <leader>P viwp
 map <Leader>y "+y
 map <Leader>p "+p
 
